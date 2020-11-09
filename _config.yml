@@ -4,7 +4,7 @@ email:              "petal_fall@nate.com"
 description:        "iPhone,iPad,Mac,AppleWatch에 담겨있는 애플의 철학"
 author:             "윤성민"
 baseurl:            "/"
-url:                "https://yoonsm12.github.io"
+url:                " https://yoonsm12.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/blogthumbnail.png"
 
