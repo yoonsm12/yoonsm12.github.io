@@ -1,4 +1,4 @@
-title:              "Apple이란 무엇인가?"
+title:              "Apple is what?"
 tagline:            "애플만의 차별된 철학을 분석해보기"
 email:              "petal_fall@nate.com"
 description:        "iPhone,iPad,Mac,AppleWatch에 담겨있는 애플의 철학"
@@ -6,12 +6,12 @@ author:             "윤성민"
 baseurl:            "/"
 url:                "https://yoonsm12.github.io"
 locale:             "ko_KR"
-thumbnail:          "/img/blogthumbnail.png"
+thumbnail:          "/img/bg-index.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
+instagram_username: yooonsm
+facebook_username:  petal_fall@nate.com
 linkedin_username:  linkedin_username
 
 # Build settings
