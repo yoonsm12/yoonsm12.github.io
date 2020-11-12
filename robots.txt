@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yoonsm12.github.io/sitemap.xml
+DaumWebMasterTool:97b7a4178cddc2603c85f957b211e2554683f62a2391b3cc09ce0d2dd74a678b:AjqBsM5N9OwqdGhcHVi0YA==
