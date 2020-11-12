@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /applestainless/
-title: 'Apple-Stainless steel'
-date: 2020-11-11 20:30:00 +09:00
+title: 'Apple Stainless steel'
+date: '2020-11-11 20:30:00 +09:00'
 feature: '/img/posts/002/thumbnail.jpeg'
 background: '/img/posts/002/thumbnail.jpeg'
 categories:

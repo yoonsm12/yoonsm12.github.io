@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /appletaptic/
-title: 'Apple-Taptic Engine'
-date: 2020-11-09 12:30:00 +09:00
+title: 'Apple Taptic Engine'
+date: '2020-11-09 12:30:00 +09:00'
 feature: '/img/posts/001/taptic.jpeg'
 background: '/img/posts/001/blogbackground.png'
 categories:
