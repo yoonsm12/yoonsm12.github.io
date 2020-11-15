@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /appletaptic/
-title: 'Apple Taptic Engine'
+title: '애플의 철학 - 탭틱엔진(taptic-engine)'
 date: '2020-11-09 12:30:00 +09:00'
 feature: '/img/posts/001/taptic.jpeg'
 background: '/img/posts/001/blogbackground.png'
