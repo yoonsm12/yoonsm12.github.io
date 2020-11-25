@@ -3,8 +3,8 @@ layout: post
 permalink: /applesecurity/
 title: '보안에 담긴 애플의 철학'
 date: '2020-11-15 20:30:00 +09:00'
-feature: '/img/posts/004/thumbnail.jpg'
-background: '/img/posts/004/thumbnail.jpg'
+feature: '/img/posts/004/thumbnail.jpeg'
+background: '/img/posts/004/thumbnail.jpeg'
 categories:
   -security
 tags:
@@ -14,7 +14,7 @@ tags:
 
 description: '애플은 보안에 항상 신경을쓰고 예민하다. 폐쇄적으로 운영체제를 만들고 이를 보안에 적극적으로 활용한다.'
 ---
-![애플보안](/img/posts/004/thumbnail.jpg)
+![애플보안](/img/posts/004/start.png)
 
 ## 애플의 보안 뭐가 다를까?
 
