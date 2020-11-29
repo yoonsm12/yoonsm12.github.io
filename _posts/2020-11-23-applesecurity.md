@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /applesecurity/
+permalink: /applesecurity
 title: '보안에 담긴 애플의 철학'
 date: '2020-11-20 20:30:00 +09:00'
 feature: '/img/posts/004/start.png'

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /applestainless/
+permalink: /applestainless
 title: '애플의 철학 - 스테인리스(stainless-steel)'
 date: '2020-11-11 20:30:00 +09:00'
 feature: '/img/posts/002/thumbnail.jpeg'

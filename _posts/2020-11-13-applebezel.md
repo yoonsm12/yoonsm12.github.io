@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /applebezel/
+permalink: /applebezel
 title: '아이폰의 디자인철학 - 베젤(bezel)'
 date: '2020-11-15 20:30:00 +09:00'
 feature: '/img/posts/003/thumbnail.jpeg'
