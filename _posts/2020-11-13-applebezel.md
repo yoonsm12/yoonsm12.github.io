@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /applebezel
-title: '아이폰의 디자인철학 - 베젤(bezel)'
+title: '베젤에 담긴 애플의 철학'
 date: '2020-11-15 20:30:00 +09:00'
 feature: '/img/posts/003/thumbnail.jpeg'
 background: '/img/posts/003/thumbnail.jpeg'
